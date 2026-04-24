@@ -1,4 +1,8 @@
+
+
 # diff-split
+
+![diff-split banner](public/diff-split-banner.jpg)
 
 `diff-split` turns one big staged monorepo diff into multiple clean PR branches.
 
